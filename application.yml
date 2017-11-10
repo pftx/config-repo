@@ -1,4 +1,11 @@
 # Center Config.
 message: Center Config.
+
+management:
+  info.git.mode: full
+
+spring:
+  jackson.serialization.indent_output: true
+
 xtoken:
   authKey: pwNzT9UW9Gqi
